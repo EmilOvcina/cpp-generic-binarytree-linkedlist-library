@@ -1,0 +1,1 @@
+cat $2 | valgrind --leak-check=yes --track-origins=yes ./a.out $1

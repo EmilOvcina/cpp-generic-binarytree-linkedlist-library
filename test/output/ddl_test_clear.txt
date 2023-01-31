@@ -1,0 +1,13 @@
+Pushed element: 50
+Pushed element: 10
+Pushed element: 20
+Pushed element: 30
+Pushed element: 80
+Pushed element: 90
+Pushed element: 55
+Pushed element: 52
+Pushed element: 51
+List is not empty
+Cleared list
+List is empty
+

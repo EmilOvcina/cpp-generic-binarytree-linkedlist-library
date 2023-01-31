@@ -1,0 +1,16 @@
+push 50
+push 10
+push 11
+push 12
+push 13
+push 14
+insert 100 3
+print
+back
+front
+size
+move
+push 10
+push 11
+print
+print_tmp

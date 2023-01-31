@@ -1,0 +1,16 @@
+insert 20 hello
+insert 25 hello_world
+insert 10 tst
+find 20
+insert 10 tst
+insert 50 tst
+insert 32 tst
+insert 5 tst
+print
+erase 50
+erase 5
+copy
+print
+empty
+clear
+empty

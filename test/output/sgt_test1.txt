@@ -1,0 +1,15 @@
+Inserted: [20|hello]
+Inserted: [25|hello_world]
+Inserted: [10|tst]
+[20|hello]
+Inserted: [50|tst]
+Inserted: [32|tst]
+Inserted: [5|tst]
+Erased node: 50
+Erased node: 5
+Print: [10|tst] [20|hello] [25|hello_world] [32|tst] 
+Tree moved
+Inserted: [100|NEW]
+Print: [100|NEW] 
+Print TMP: [10|tst] [20|hello] [25|hello_world] [32|tst] 
+

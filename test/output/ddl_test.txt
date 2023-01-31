@@ -1,0 +1,27 @@
+Pushed element: 50
+Pushed element: 10
+Pushed element: 20
+Pushed element: 30
+Pushed element: 80
+Pushed element: 90
+Pushed element: 55
+Pushed element: 52
+Pushed element: 51
+50 -> 10 -> 20 -> 30 -> 80 -> 90 -> 55 -> 52 -> 51 -> NULL
+Popped last element
+Popped last element
+Popped last element
+50 -> 10 -> 20 -> 30 -> 80 -> 90 -> NULL
+Inserted: 1000 at index 4
+50 -> 10 -> 20 -> 30 -> 1000 -> 80 -> 90 -> NULL
+7
+Erased element: 1000
+50 -> 10 -> 20 -> 30 -> 80 -> 90 -> NULL
+6
+List copied
+== returned true
+Pushed element: 234
+== returned false
+50
+234
+

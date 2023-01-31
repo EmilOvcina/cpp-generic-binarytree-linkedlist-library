@@ -1,0 +1,17 @@
+Pushed element: 50
+Pushed element: 10
+Pushed element: 11
+Pushed element: 12
+Pushed element: 13
+Pushed element: 14
+Inserted: 100 at index 3
+50 -> 10 -> 11 -> 100 -> 12 -> 13 -> 14 -> NULL
+14
+50
+7
+List moved
+Pushed element: 10
+Pushed element: 11
+10 -> 11 -> NULL
+50 -> 10 -> 11 -> 100 -> 12 -> 13 -> 14 -> NULL
+

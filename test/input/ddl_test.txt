@@ -1,0 +1,26 @@
+push 50
+push 10
+push 20
+push 30
+push 80
+push 90
+push 55
+push 52
+push 51
+print
+pop
+pop
+pop
+print
+insert 1000 4
+print
+size
+erase 4
+print
+size
+copy
+==
+push 234
+==
+front
+back
